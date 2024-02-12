@@ -1,0 +1,6 @@
+.Filter-section{
+    display: flex;
+    margin: 10px;
+    height: 30px;
+    justify-content: space-between;
+}

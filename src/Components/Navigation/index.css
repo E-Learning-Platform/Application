@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.Navigation-section{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 15%;
+    padding: 10px;
+    justify-content: center;
+    align-self: stretch;   
+}
