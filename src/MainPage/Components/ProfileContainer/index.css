@@ -1,0 +1,19 @@
+.profile-container{
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 5px;
+    flex-grow: 1;
+    height: 40%;
+    border-radius: 10px;
+}
+.details-container{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    flex-direction: column;
+}
+.profile-img{
+    align-self: flex-end;
+}
